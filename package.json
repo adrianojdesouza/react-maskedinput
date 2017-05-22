@@ -5,7 +5,7 @@
   "main": "./lib/index.js",
   "jsnext:main": "es6/index.js",
   "standalone": "MaskedInput",
-  "homepage": "https://github.com/insin/react-maskedinput",
+  "homepage": "https://github.com/ivanzusko/react-maskedinput",
   "license": "MIT",
   "author": "Jonny Buchanan <jonathan.buchanan@gmail.com>",
   "keywords": [
@@ -44,6 +44,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/insin/react-maskedinput.git"
+    "url": "https://github.com/ivanzusko/react-maskedinput.git"
   }
 }
